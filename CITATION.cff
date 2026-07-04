@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this draft, please cite it as below."
+title: "DCA: Discrete Computer Arithmetic - A Draft Oriented Toward Finite Computation"
+authors:
+  - family-names: "Wang"
+    given-names: "Bingqin"
+    name-particle: "王秉钦"
+    affiliation: "Beijing National Accounting Institute"
+date-released: "2026-07-04"
+license: "MIT"
+repository-code: "https://github.com/superalp1985/DCA-Discrete-Computer-Arithmetic"
+url: "https://github.com/superalp1985/DCA-Discrete-Computer-Arithmetic"
